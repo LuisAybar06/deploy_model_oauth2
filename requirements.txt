@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+joblib
+scikit-learn
+
+
+# databases
+# sqlalchemy
+# aiosqlite
+
+
+pyjwt
+passlib[bcrypt]
